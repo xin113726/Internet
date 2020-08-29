@@ -18,7 +18,7 @@ B = Byte
 
 b = bit
 
-8 b = 1 B（8 位等于 1 字节）
+8b = 1B（8 位等于 1 字节）
 
 1024 Kbps = 1 Mbps
 ```
@@ -29,6 +29,6 @@ b = bit
 
 - Gbps = Gbit/s，即千兆比特每秒
 
-USB Type C（USB 3.1 Gen2 Type C）：采用了 Type C 接口规格，支持最高 100w 的 PD 充电协议，传输速率最高 10bps
+USB Type C（USB 3.1 Gen2 Type C）：采用了 Type C 接口规格，支持最高 100w 的 PD 充电协议，传输速率最高 10Gbps
 
 雷电3（Thunderbolt™3、雷雳3）：采用了 Type C 接口规格，支持最高 100w 的 PD 充电协议，传输速率最高 40Gbps，可以外接显卡
