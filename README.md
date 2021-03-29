@@ -9,6 +9,10 @@ Fn 键：在紧凑布局中以组合键方式定义一键两义的按键
 
 PCIe：一种高速传输的串行总线
 
+光线追踪：
+
+DLSS：深度学习超采样。如果你在1080P分辨率下进行游戏，DLSS技术允许以较低分辨率进行画面渲染(如720P)，然后通过深度学习的算法“脑补”出2K的高清图像，从而在不显著影响画质的情况下大大降低对显卡性能的消耗，RTX GPU中用于深度学习的Tensor Core可以加速这个过程。
+
 [屏幕](https://github.com/xin113726/computer/issues/1)
 
 [显示器](https://github.com/xin113726/computer/issues/2)
